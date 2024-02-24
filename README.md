@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @AtharvShinde2004
-- 👀 I’m interested in Coding, Gym
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Apps, Website 
-- 📫 How to reach me Email
+# Hi there! 👋 I'm Atharv Shinde
+
+I'm an online tutor with over 5 months of experience, having taught more than 300 students through courses and 1:1 lectures. My expertise includes:
+
+- Java
+- Python
+- Web Development (MEAN and MERN stack)
+
+🚀 Let's code and learn together! 🌐
+
 
 <!---
 AtharvShinde2004/AtharvShinde2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
