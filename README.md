@@ -83,6 +83,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/AtharvShinde2004/AtharvShinde2004/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/AtharvShinde2004/AtharvShinde2004/output/snake.svg" alt="Snake animation" />
 
 ###
