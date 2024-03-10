@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi 👋! My name is Atharv Shinde and I'm a Online Tutor from Mumbai, India
 
-[![wakatime](https://wakatime.com/badge/user/018e2718-ad17-4b16-a970-55ef45f3275d.svg)](https://wakatime.com/@018e2718-ad17-4b16-a970-55ef45f3275d)
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XMHEjkXJ2m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharvshinde_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvshinde212022) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Atharva62156121) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCwh-_FAOlwAg4JsRUw8c49g) 
 
