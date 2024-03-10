@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018e2718-ad17-4b16-a970-55ef45f3275d.svg)](https://wakatime.com/@018e2718-ad17-4b16-a970-55ef45f3275d)
 # 💫 About Me:
 Hi 👋! My name is Atharv Shinde and I'm a Online Tutor from Mumbai, India
 
