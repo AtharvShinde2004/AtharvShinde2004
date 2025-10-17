@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI in Education: How Artificial Intelligence Is Changing Learning](https://blog.techcognita.com/2025/10/ai-in-education-how-artificial.html)
 - [Stripe vs Razorpay: Which Is Better for Indian Devs?](https://blog.techcognita.com/2025/06/stripe-vs-razorpay-which-is-better-for.html)
 - [Stop Undervaluing Your Work: Why ₹3000 for a Website Is an Insult, Not a Deal](https://blog.techcognita.com/2025/05/stop-undervaluing-your-work-why-3000.html)
 - [Agentic AI: The Rise of Autonomous Digital Workers in 2025](https://blog.techcognita.com/2025/05/agentic-ai-rise-of-autonomous-digital.html)
-- [10 Mind-Blowing Announcements from Google I/O 2025 That Will Redefine Tech](https://blog.techcognita.com/2025/05/10-mind-blowing-announcements-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
