@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Amazon DNS outage breaks much of the internet](https://blog.techcognita.com/2025/10/amazon-dns-outage-breaks-much-of.html)
-- [Major Cloud Outage Hits Multiple Platforms Including Canva](https://blog.techcognita.com/2025/10/major-cloud-outage-hits-multiple.html)
-- [AI in Education: How Artificial Intelligence Is Changing Learning](https://blog.techcognita.com/2025/10/ai-in-education-how-artificial.html)
-- [Stripe vs Razorpay: Which Is Better for Indian Devs?](https://blog.techcognita.com/2025/06/stripe-vs-razorpay-which-is-better-for.html)
+- [The Rise of Serverless Computing: Is it Right for Your Project?](https://blog.techcognita.com/2025/10/the-rise-of-serverless-computing-is-it.html)
+- [Daily Tech News Roundup - 2025-10-20](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-20.html)
+- [Oura launches redesigned app and ‘Cumulative Stress’ feature](https://blog.techcognita.com/2025/10/oura-launches-redesigned-app-and.html)
+- [The Rise of Edge AI: Bringing Intelligence Closer to the Data](https://blog.techcognita.com/2025/10/the-rise-of-edge-ai-bringing.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
