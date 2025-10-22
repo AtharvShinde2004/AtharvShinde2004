@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-10-22](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-22_22.html)
 - [The Rise of TinyML: Bringing Machine Learning to the Edge](https://blog.techcognita.com/2025/10/the-rise-of-tinyml-bringing-machine.html)
 - [Daily Tech News Roundup - 2025-10-21](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-21.html)
 - [The Rise of Serverless Computing: Is it Right for Your Project?](https://blog.techcognita.com/2025/10/the-rise-of-serverless-computing-is-it.html)
-- [Daily Tech News Roundup - 2025-10-20](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-20.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
