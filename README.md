@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI-Powered Developer: How AI is Transforming Software Development](https://blog.techcognita.com/2025/10/the-ai-powered-developer-how-ai-is.html)
 - [Daily Tech News Roundup - 2025-10-23](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-23.html)
 - [The Rise of Serverless Computing: A Paradigm Shift in Cloud Architecture](https://blog.techcognita.com/2025/10/the-rise-of-serverless-computing.html)
 - [Daily Tech News Roundup - 2025-10-22](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-22_22.html)
-- [The Rise of TinyML: Bringing Machine Learning to the Edge](https://blog.techcognita.com/2025/10/the-rise-of-tinyml-bringing-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
