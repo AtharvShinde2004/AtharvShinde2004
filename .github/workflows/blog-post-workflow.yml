@@ -1,7 +1,11 @@
 name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
+on:
+  schedule:
+    - cron: '30 18 * * *' # 00:00 IST
+    - cron: '30 0 * * *'  # 06:00 IST
+    - cron: '30 6 * * *'  # 12:00 IST
+    - cron: '30 12 * * *' # 18:00 IST
+
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
