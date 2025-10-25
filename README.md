@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI-Powered Developer: How LLMs are Transforming Software Creation](https://blog.techcognita.com/2025/10/the-ai-powered-developer-how-llms-are.html)
 - [Daily Tech News Roundup - 2025-10-25](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-25.html)
 - [The Rise of Serverless Computing: A Developer&#39;s Perspective](https://blog.techcognita.com/2025/10/the-rise-of-serverless-computing_24.html)
 - [Daily Tech News Roundup - 2025-10-24](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-24.html)
-- [The AI-Powered Developer: How AI is Transforming Software Development](https://blog.techcognita.com/2025/10/the-ai-powered-developer-how-ai-is.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
