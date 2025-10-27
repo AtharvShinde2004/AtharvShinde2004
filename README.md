@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Serverless Computing: Is It Right for Your Project?](https://blog.techcognita.com/2025/10/the-rise-of-serverless-computing-is-it_27.html)
+- [The AI-Powered Developer: Revolutionizing Software Creation](https://blog.techcognita.com/2025/10/the-ai-powered-developer.html)
 - [Daily Tech News Roundup - 2025-10-27](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-27.html)
 - [Daily Tech News Roundup - 2025-10-26](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-26.html)
-- [The AI-Powered Developer: How LLMs are Transforming Software Creation](https://blog.techcognita.com/2025/10/the-ai-powered-developer-how-llms-are.html)
-- [Daily Tech News Roundup - 2025-10-25](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-25.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
