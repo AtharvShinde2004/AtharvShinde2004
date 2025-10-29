@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI-Powered Developer: Tools and the Future of Coding](https://blog.techcognita.com/2025/10/the-ai-powered-developer-tools-and.html)
 - [Daily Tech News Roundup - 2025-10-29](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-29.html)
 - [The Rise of Edge Computing: Bringing Processing Closer to the Source](https://blog.techcognita.com/2025/10/the-rise-of-edge-computing-bringing.html)
 - [Daily Tech News Roundup - 2025-10-28](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-28.html)
-- [The Rise of Serverless Computing: Is It Right for Your Project?](https://blog.techcognita.com/2025/10/the-rise-of-serverless-computing-is-it_27.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
