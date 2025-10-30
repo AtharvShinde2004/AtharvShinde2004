@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-10-30](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-30.html)
 - [Stripe vs Razorpay vs PayU vs Cashfree – Which Payment Gateway Should Indian Businesses Choose in 2025?](https://blog.techcognita.com/2025/10/stripe-vs-razorpay-vs-payu-vs-cashfree.html)
 - [The AI-Powered Developer: Tools and the Future of Coding](https://blog.techcognita.com/2025/10/the-ai-powered-developer-tools-and.html)
 - [Daily Tech News Roundup - 2025-10-29](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-29.html)
-- [The Rise of Edge Computing: Bringing Processing Closer to the Source](https://blog.techcognita.com/2025/10/the-rise-of-edge-computing-bringing.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
