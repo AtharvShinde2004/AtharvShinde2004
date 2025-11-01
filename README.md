@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-11-01](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-01.html)
 - [Cracking the Code: A Deep Dive into Mobile App Development](https://blog.techcognita.com/2025/10/cracking-code-deep-dive-into-mobile-app.html)
 - [The Rise of TinyML: Bringing Machine Learning to the Edge](https://blog.techcognita.com/2025/10/the-rise-of-tinyml-bringing-machine_31.html)
 - [Daily Tech News Roundup - 2025-10-31](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-31.html)
-- [Daily Tech News Roundup - 2025-10-30](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-30.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
