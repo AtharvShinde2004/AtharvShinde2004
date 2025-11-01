@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Daily Tech News Roundup - 2025-11-01](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-01.html)
-- [Cracking the Code: A Deep Dive into Mobile App Development](https://blog.techcognita.com/2025/10/cracking-code-deep-dive-into-mobile-app.html)
-- [The Rise of TinyML: Bringing Machine Learning to the Edge](https://blog.techcognita.com/2025/10/the-rise-of-tinyml-bringing-machine_31.html)
-- [Daily Tech News Roundup - 2025-10-31](https://blog.techcognita.com/2025/10/daily-tech-news-roundup-2025-10-31.html)
+- [Case Study: ease.her – Empowering Women Through Technology with TechCognita](https://blog.techcognita.com/2025/11/case-study-easeher-empowering-women.html)
+- [The Internet of Everything: Connecting the World](https://blog.techcognita.com/2025/11/the-internet-of-everything-connecting.html)
+- [Unlock the Power of Online Payments with Razorpay &lpar;From a Partner’s Perspective&rpar;](https://blog.techcognita.com/2025/11/unlock-power-of-online-payments-with.html)
+- [Razorpay Payment Gateway Integration with Flutter: A Beginner&#39;s Guide](https://blog.techcognita.com/2025/11/razorpay-payment-gateway-integration.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
