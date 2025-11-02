@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Razorpay vs PayU vs Cashfree: A Payment Gateway Integration Showdown](https://blog.techcognita.com/2025/11/razorpay-vs-payu-vs-cashfree-payment.html)
 - [Daily Tech News Roundup - 2025-11-02](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-02.html)
 - [Case Study: ease.her – Empowering Women Through Technology with TechCognita](https://blog.techcognita.com/2025/11/case-study-easeher-empowering-women.html)
 - [The Internet of Everything: Connecting the World](https://blog.techcognita.com/2025/11/the-internet-of-everything-connecting.html)
-- [Unlock the Power of Online Payments with Razorpay &lpar;From a Partner’s Perspective&rpar;](https://blog.techcognita.com/2025/11/unlock-power-of-online-payments-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
