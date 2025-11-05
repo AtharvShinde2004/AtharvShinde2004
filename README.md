@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-11-05](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-05.html)
 - [What is Virtual Reality?](https://blog.techcognita.com/2025/11/what-is-virtual-reality.html)
 - [Daily Tech News Roundup - 2025-11-04](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-04.html)
 - [The State of Java Development in 2025](https://blog.techcognita.com/2025/11/the-state-of-java-development-in-2025.html)
-- [Daily Tech News Roundup - 2025-11-03](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-03.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
