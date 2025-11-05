@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of the Internet of Robots &lpar;IoR&rpar;](https://blog.techcognita.com/2025/11/the-rise-of-internet-of-robots-ior.html)
 - [Daily Tech News Roundup - 2025-11-05](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-05.html)
 - [What is Virtual Reality?](https://blog.techcognita.com/2025/11/what-is-virtual-reality.html)
 - [Daily Tech News Roundup - 2025-11-04](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-04.html)
-- [The State of Java Development in 2025](https://blog.techcognita.com/2025/11/the-state-of-java-development-in-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
