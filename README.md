@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Summer of Code &lpar;GSoC&rpar; 2026 – Your Complete Guide to Getting Started](https://blog.techcognita.com/2025/11/google-summer-of-code-gsoc-2026-your.html)
+- [Cloud Computing: A Comprehensive Overview](https://blog.techcognita.com/2025/11/cloud-computing-comprehensive-overview.html)
 - [Daily Tech News Roundup - 2025-11-07](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-07.html)
 - [Java: Still the King of Enterprise Development?](https://blog.techcognita.com/2025/11/java-still-king-of-enterprise.html)
-- [Daily Tech News Roundup - 2025-11-06](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-06.html)
-- [The Rise of the Internet of Robots &lpar;IoR&rpar;](https://blog.techcognita.com/2025/11/the-rise-of-internet-of-robots-ior.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
