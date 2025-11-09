@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Serverless Architecture?](https://blog.techcognita.com/2025/11/what-is-serverless-architecture.html)
 - [Daily Tech News Roundup - 2025-11-09](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-09.html)
 - [Java and Python: A Powerful Combination for Modern Development](https://blog.techcognita.com/2025/11/java-and-python-powerful-combination.html)
 - [Daily Tech News Roundup - 2025-11-08](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-08.html)
-- [Google Summer of Code &lpar;GSoC&rpar; 2026 – Your Complete Guide to Getting Started](https://blog.techcognita.com/2025/11/google-summer-of-code-gsoc-2026-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
