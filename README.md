@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Internet of Things: A Connected World](https://blog.techcognita.com/2025/11/the-internet-of-things-connected-world.html)
 - [Daily Tech News Roundup - 2025-11-12](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-12.html)
 - [The Tech Symphony: Java, Python, JavaScript, and Beyond](https://blog.techcognita.com/2025/11/the-tech-symphony-java-python.html)
 - [Daily Tech News Roundup - 2025-11-11](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-11.html)
-- [GitHub 2026 – Your Complete Guide to Open Source Contribution](https://blog.techcognita.com/2025/11/github-2026-your-complete-guide-to-open.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
