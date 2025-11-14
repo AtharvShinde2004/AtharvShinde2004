@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-11-14](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-14.html)
 - [Java: The Enduring Powerhouse in 2024](https://blog.techcognita.com/2025/11/java-enduring-powerhouse-in-2024.html)
 - [Daily Tech News Roundup - 2025-11-13](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-13.html)
 - [The Internet of Things: A Connected World](https://blog.techcognita.com/2025/11/the-internet-of-things-connected-world.html)
-- [Daily Tech News Roundup - 2025-11-12](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-12.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
