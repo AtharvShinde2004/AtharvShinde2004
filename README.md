@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Internet of Things: A Connected Future](https://blog.techcognita.com/2025/11/the-internet-of-things-connected-future.html)
 - [Daily Tech News Roundup - 2025-11-15](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-15.html)
 - [Razorpay: A Deep Dive into India&#39;s Leading Payment Gateway](https://blog.techcognita.com/2025/11/razorpay-deep-dive-into-indias-leading.html)
 - [Daily Tech News Roundup - 2025-11-14](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-14.html)
-- [Java: The Enduring Powerhouse in 2024](https://blog.techcognita.com/2025/11/java-enduring-powerhouse-in-2024.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
