@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ever-Evolving World of Robotics](https://blog.techcognita.com/2025/11/the-ever-evolving-world-of-robotics.html)
 - [Daily Tech News Roundup - 2025-11-17](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-17.html)
 - [The Tech Renaissance: Java, Python, JavaScript, and Beyond](https://blog.techcognita.com/2025/11/the-tech-renaissance-java-python.html)
 - [Daily Tech News Roundup - 2025-11-16](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-16.html)
-- [The Internet of Things: A Connected Future](https://blog.techcognita.com/2025/11/the-internet-of-things-connected-future.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
