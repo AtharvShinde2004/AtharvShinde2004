@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-11-20](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-20.html)
 - [Daily Tech News Roundup - 2025-11-19](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-19.html)
 - [Virtual Reality: A Portal to New Realities](https://blog.techcognita.com/2025/11/virtual-reality-portal-to-new-realities.html)
 - [Daily Tech News Roundup - 2025-11-18](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-18.html)
-- [The Ever-Evolving World of Robotics](https://blog.techcognita.com/2025/11/the-ever-evolving-world-of-robotics.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
