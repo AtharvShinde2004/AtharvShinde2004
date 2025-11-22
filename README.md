@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Razorpay vs PayU vs Cashfree: Choosing the Right Payment Gateway](https://blog.techcognita.com/2025/11/razorpay-vs-payu-vs-cashfree-choosing.html)
 - [Daily Tech News Roundup - 2025-11-22](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-22.html)
 - [Augmented Reality: Enhancing Your Reality](https://blog.techcognita.com/2025/11/augmented-reality-enhancing-your-reality.html)
 - [Serverless Architecture: Is It Right for You?](https://blog.techcognita.com/2025/11/serverless-architecture-is-it-right-for.html)
-- [Daily Tech News Roundup - 2025-11-21](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-21.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
