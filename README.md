@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Contribute in Open Source &lpar;Beginner Friendly Guide&rpar;](https://blog.techcognita.com/2025/11/how-to-contribute-in-open-source.html)
+- [Data Science: Unlocking Insights from Information](https://blog.techcognita.com/2025/11/data-science-unlocking-insights-from.html)
 - [Daily Tech News Roundup - 2025-11-25](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-25.html)
 - [Java, Python, JavaScript: A Powerhouse for Web Development and AI](https://blog.techcognita.com/2025/11/java-python-javascript-powerhouse-for.html)
-- [Virtual Reality: A Deep Dive into the Immersive Future](https://blog.techcognita.com/2025/11/virtual-reality-deep-dive-into.html)
-- [Daily Tech News Roundup - 2025-11-24](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-24.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
