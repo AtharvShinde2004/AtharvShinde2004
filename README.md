@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Razorpay Payment Gateway Integration with Flutter and Dart](https://blog.techcognita.com/2025/11/razorpay-payment-gateway-integration_27.html)
+- [Cloud Computing: A Comprehensive Overview](https://blog.techcognita.com/2025/11/cloud-computing-comprehensive-overview_27.html)
 - [Daily Tech News Roundup - 2025-11-27](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-27.html)
 - [Daily Tech News Roundup - 2025-11-26](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-26.html)
-- [How to Contribute in Open Source &lpar;Beginner Friendly Guide&rpar;](https://blog.techcognita.com/2025/11/how-to-contribute-in-open-source.html)
-- [Data Science: Unlocking Insights from Information](https://blog.techcognita.com/2025/11/data-science-unlocking-insights-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
