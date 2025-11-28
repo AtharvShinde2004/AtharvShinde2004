@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Information Processing](https://blog.techcognita.com/2025/11/quantum-information-processing.html)
 - [Daily Tech News Roundup - 2025-11-28](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-28.html)
 - [Razorpay Payment Gateway Integration with Flutter and Dart](https://blog.techcognita.com/2025/11/razorpay-payment-gateway-integration_27.html)
 - [Cloud Computing: A Comprehensive Overview](https://blog.techcognita.com/2025/11/cloud-computing-comprehensive-overview_27.html)
-- [Daily Tech News Roundup - 2025-11-27](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-27.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
