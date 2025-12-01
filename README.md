@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-12-01](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-01.html)
 - [Razorpay Payment Gateway Integration with Flutter and Dart](https://blog.techcognita.com/2025/11/razorpay-payment-gateway-integration_30.html)
 - [Python: The Versatile Language Powering the Future](https://blog.techcognita.com/2025/11/python-versatile-language-powering.html)
 - [Daily Tech News Roundup - 2025-11-30](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-30.html)
-- [Daily Tech News Roundup - 2025-11-29](https://blog.techcognita.com/2025/11/daily-tech-news-roundup-2025-11-29.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
