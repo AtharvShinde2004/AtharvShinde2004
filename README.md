@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-12-03](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-03.html)
 - [The Ever-Evolving World of Robotics](https://blog.techcognita.com/2025/12/the-ever-evolving-world-of-robotics.html)
 - [Daily Tech News Roundup - 2025-12-02](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-02.html)
 - [The Road Ahead: Exploring the Internet of Cars](https://blog.techcognita.com/2025/12/the-road-ahead-exploring-internet-of.html)
-- [Daily Tech News Roundup - 2025-12-01](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-01.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
