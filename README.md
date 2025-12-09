@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-12-09](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-09.html)
 - [Daily Tech News Roundup - 2025-12-08](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-08.html)
 - [Daily Tech News Roundup - 2025-12-07](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-07.html)
 - [Daily Tech News Roundup - 2025-12-06](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-06.html)
-- [Daily Tech News Roundup - 2025-12-05](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-05.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
