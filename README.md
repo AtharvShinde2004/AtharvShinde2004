@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Tech News Roundup - 2025-12-22](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-22.html)
 - [Daily Tech News Roundup - 2025-12-21](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-21.html)
 - [The Ever-Evolving World of Web Development](https://blog.techcognita.com/2025/12/the-ever-evolving-world-of-web.html)
 - [Understanding Blockchain Technology: A Comprehensive Guide](https://blog.techcognita.com/2025/12/understanding-blockchain-technology.html)
-- [Daily Tech News Roundup - 2025-12-20](https://blog.techcognita.com/2025/12/daily-tech-news-roundup-2025-12-20.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
