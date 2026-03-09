@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Summer of Code 2026: Complete Guide, Timeline, Eligibility &amp; How to Apply](https://blog.techcognita.com/2026/03/google-summer-of-code-2026-complete.html)
 - [What is Serverless Architecture?](https://blog.techcognita.com/2026/02/what-is-serverless-architecture.html)
 - [Razorpay Payment Gateway Integration with Flutter: A Beginner&#39;s Guide](https://blog.techcognita.com/2026/02/razorpay-payment-gateway-integration.html)
 - [Daily Tech News Roundup - 2026-02-04](https://blog.techcognita.com/2026/02/daily-tech-news-roundup-2026-02-04.html)
-- [Daily Tech News Roundup - 2026-02-03](https://blog.techcognita.com/2026/02/daily-tech-news-roundup-2026-02-03.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
