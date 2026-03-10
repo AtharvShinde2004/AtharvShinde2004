@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jio Launches Free AI Course for Students and Professionals – Enroll Now](https://blog.techcognita.com/2026/03/jio-launches-free-ai-course-for.html)
+- [Understanding the Trending Unicode Text Bug That Breaks Apps](https://blog.techcognita.com/2026/03/understanding-trending-unicode-text-bug.html)
 - [GSoC 2026: 185 Open Source Organizations Announced – How to Choose the Right Project](https://blog.techcognita.com/2026/03/gsoc-2026-185-open-source-organizations.html)
 - [Google Summer of Code 2026: Complete Guide, Timeline, Eligibility &amp; How to Apply](https://blog.techcognita.com/2026/03/google-summer-of-code-2026-complete.html)
-- [What is Serverless Architecture?](https://blog.techcognita.com/2026/02/what-is-serverless-architecture.html)
-- [Razorpay Payment Gateway Integration with Flutter: A Beginner&#39;s Guide](https://blog.techcognita.com/2026/02/razorpay-payment-gateway-integration.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
