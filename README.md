@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Acquires Moltbook – A New Step Toward the Future of AI Social Networks](https://blog.techcognita.com/2026/03/meta-acquires-moltbook-new-step-toward.html)
 - [Jio Launches Free AI Course for Students and Professionals – Enroll Now](https://blog.techcognita.com/2026/03/jio-launches-free-ai-course-for.html)
 - [Understanding the Trending Unicode Text Bug That Breaks Apps](https://blog.techcognita.com/2026/03/understanding-trending-unicode-text-bug.html)
 - [GSoC 2026: 185 Open Source Organizations Announced – How to Choose the Right Project](https://blog.techcognita.com/2026/03/gsoc-2026-185-open-source-organizations.html)
-- [Google Summer of Code 2026: Complete Guide, Timeline, Eligibility &amp; How to Apply](https://blog.techcognita.com/2026/03/google-summer-of-code-2026-complete.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
