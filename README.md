@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding vs Traditional Software Development: Which Approach Will Dominate in 2026?](https://blog.techcognita.com/2026/06/vibe-coding-vs-traditional-software.html)
 - [AI Agents vs AI Chatbots: What&#39;s the Difference and Which One Should Businesses Choose in 2026?](https://blog.techcognita.com/2026/06/ai-agents-vs-ai-chatbots-whats.html)
 - [TechCognita Case Study: Building a High-Performance Digital Growth System for Mewad Cabs](https://blog.techcognita.com/2026/06/techcognita-case-study-building-high.html)
 - [TechCognita Digital Solutions — Transforming Ideas into Scalable Digital Experiences](https://blog.techcognita.com/2026/05/techcognita-digital-solutions.html)
-- [Meta Acquires Moltbook – A New Step Toward the Future of AI Social Networks](https://blog.techcognita.com/2026/03/meta-acquires-moltbook-new-step-toward.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
