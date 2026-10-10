@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Real-Time Collaboration: Building Web Apps with WebSockets, CRDTs, and Yjs in 2026](https://blog.techcognita.com/2026/10/mastering-real-time-collaboration.html)
+- [Payment Orchestration Platforms: Mastering Multi-Gateway Routing and Fallback Strategies in 2026](https://blog.techcognita.com/2026/10/payment-orchestration-platforms.html)
+- [Securing REST and GraphQL APIs in 2026: A Deep Dive into Rate Limiting, WAF, CORS, and Token Hardening](https://blog.techcognita.com/2026/10/securing-rest-and-graphql-apis-in-2026.html)
 - [Vibe Coding vs Traditional Software Development: Which Approach Will Dominate in 2026?](https://blog.techcognita.com/2026/06/vibe-coding-vs-traditional-software.html)
-- [AI Agents vs AI Chatbots: What&#39;s the Difference and Which One Should Businesses Choose in 2026?](https://blog.techcognita.com/2026/06/ai-agents-vs-ai-chatbots-whats.html)
-- [TechCognita Case Study: Building a High-Performance Digital Growth System for Mewad Cabs](https://blog.techcognita.com/2026/06/techcognita-case-study-building-high.html)
-- [TechCognita Digital Solutions — Transforming Ideas into Scalable Digital Experiences](https://blog.techcognita.com/2026/05/techcognita-digital-solutions.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
