@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Peak Performance: React Native&#39;s New Architecture &lpar;Fabric &amp; TurboModules&rpar; in 2026](https://blog.techcognita.com/2026/10/unlocking-peak-performance-react.html)
 - [Mastering Real-Time Collaboration: Building Web Apps with WebSockets, CRDTs, and Yjs in 2026](https://blog.techcognita.com/2026/10/mastering-real-time-collaboration.html)
 - [Payment Orchestration Platforms: Mastering Multi-Gateway Routing and Fallback Strategies in 2026](https://blog.techcognita.com/2026/10/payment-orchestration-platforms.html)
 - [Securing REST and GraphQL APIs in 2026: A Deep Dive into Rate Limiting, WAF, CORS, and Token Hardening](https://blog.techcognita.com/2026/10/securing-rest-and-graphql-apis-in-2026.html)
-- [Vibe Coding vs Traditional Software Development: Which Approach Will Dominate in 2026?](https://blog.techcognita.com/2026/06/vibe-coding-vs-traditional-software.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
