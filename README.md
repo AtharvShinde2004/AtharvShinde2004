@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering TypeScript 5.x Advanced Type Engineering: Conditional Types, Template Literals &amp; Generics for Robust 2026 Systems](https://blog.techcognita.com/2026/10/mastering-typescript-5x-advanced-type.html)
 - [The Ultimate 2026 Guide: TanStack Query vs SWR vs RTK Query for Modern Client State](https://blog.techcognita.com/2026/10/the-ultimate-2026-guide-tanstack-query.html)
 - [Unlocking Peak Performance: React Native&#39;s New Architecture &lpar;Fabric &amp; TurboModules&rpar; in 2026](https://blog.techcognita.com/2026/10/unlocking-peak-performance-react.html)
 - [Mastering Real-Time Collaboration: Building Web Apps with WebSockets, CRDTs, and Yjs in 2026](https://blog.techcognita.com/2026/10/mastering-real-time-collaboration.html)
-- [Payment Orchestration Platforms: Mastering Multi-Gateway Routing and Fallback Strategies in 2026](https://blog.techcognita.com/2026/10/payment-orchestration-platforms.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
