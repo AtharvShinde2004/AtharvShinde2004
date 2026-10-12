@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vector Databases Showdown 2026: Pinecone vs Qdrant vs Weaviate vs pgvector - An Engineering Deep Dive](https://blog.techcognita.com/2026/10/vector-databases-showdown-2026-pinecone.html)
 - [GitOps with ArgoCD and Helm: Architecting Automated Multi-Cluster Deployment Pipelines in 2026](https://blog.techcognita.com/2026/10/gitops-with-argocd-and-helm.html)
 - [Mastering TypeScript 5.x Advanced Type Engineering: Conditional Types, Template Literals &amp; Generics for Robust 2026 Systems](https://blog.techcognita.com/2026/10/mastering-typescript-5x-advanced-type.html)
 - [The Ultimate 2026 Guide: TanStack Query vs SWR vs RTK Query for Modern Client State](https://blog.techcognita.com/2026/10/the-ultimate-2026-guide-tanstack-query.html)
-- [Unlocking Peak Performance: React Native&#39;s New Architecture &lpar;Fabric &amp; TurboModules&rpar; in 2026](https://blog.techcognita.com/2026/10/unlocking-peak-performance-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
