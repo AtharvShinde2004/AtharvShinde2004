@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph vs CrewAI vs AutoGen: Which Multi-Agent Framework is Best for Production in 2026?](https://blog.techcognita.com/2026/10/langgraph-vs-crewai-vs-autogen-which.html)
 - [OAuth 2.1 and OpenID Connect &lpar;OIDC&rpar;: The Complete Modern Authentication Guide for Enterprise Systems &lpar;2026&rpar;](https://blog.techcognita.com/2026/10/oauth-21-and-openid-connect-oidc.html)
 - [Zero Trust Architecture: Implementing Identity-First Security Across Modern Cloud Networks in 2026](https://blog.techcognita.com/2026/10/zero-trust-architecture-implementing.html)
 - [Deep Linking vs. Universal Links in 2026: Mastering Complex Mobile Routing for Scalable Apps](https://blog.techcognita.com/2026/10/deep-linking-vs-universal-links-in-2026.html)
-- [Vector Databases Showdown 2026: Pinecone vs Qdrant vs Weaviate vs pgvector - An Engineering Deep Dive](https://blog.techcognita.com/2026/10/vector-databases-showdown-2026-pinecone.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
