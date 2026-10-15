@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Internal Developer Portals &lpar;IDPs&rpar; with Backstage in 2026: Scaling Engineering Teams for Modern Enterprises](https://blog.techcognita.com/2026/10/building-internal-developer-portals.html)
 - [LangGraph vs CrewAI vs AutoGen: Which Multi-Agent Framework is Best for Production in 2026?](https://blog.techcognita.com/2026/10/langgraph-vs-crewai-vs-autogen-which.html)
 - [OAuth 2.1 and OpenID Connect &lpar;OIDC&rpar;: The Complete Modern Authentication Guide for Enterprise Systems &lpar;2026&rpar;](https://blog.techcognita.com/2026/10/oauth-21-and-openid-connect-oidc.html)
 - [Zero Trust Architecture: Implementing Identity-First Security Across Modern Cloud Networks in 2026](https://blog.techcognita.com/2026/10/zero-trust-architecture-implementing.html)
-- [Deep Linking vs. Universal Links in 2026: Mastering Complex Mobile Routing for Scalable Apps](https://blog.techcognita.com/2026/10/deep-linking-vs-universal-links-in-2026.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
