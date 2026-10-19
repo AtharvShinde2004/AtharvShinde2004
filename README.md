@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fine-Tuning LLMs with LoRA and QLoRA on Custom Datasets: An Engineering Blueprint for 2026](https://blog.techcognita.com/2026/10/fine-tuning-llms-with-lora-and-qlora-on.html)
 - [Flutter vs React Native in 2026: Which Framework Dominates Modern Mobile Development?](https://blog.techcognita.com/2026/10/flutter-vs-react-native-in-2026-which.html)
 - [UPI 2.0 &amp; Recurring Mandates: Architecting Automated Subscription Billing for the Modern India &lpar;2026&rpar;](https://blog.techcognita.com/2026/10/upi-20-recurring-mandates-architecting.html)
 - [Building Internal Developer Portals &lpar;IDPs&rpar; with Backstage in 2026: Scaling Engineering Teams for Modern Enterprises](https://blog.techcognita.com/2026/10/building-internal-developer-portals.html)
-- [LangGraph vs CrewAI vs AutoGen: Which Multi-Agent Framework is Best for Production in 2026?](https://blog.techcognita.com/2026/10/langgraph-vs-crewai-vs-autogen-which.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
